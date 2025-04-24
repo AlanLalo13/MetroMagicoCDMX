@@ -369,6 +369,14 @@
             "icon": null
           },
           {
+            "name": "SkinnedMeshRenderer",
+            "scenes": [
+              "Assets/Scenes/MM01.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "SortingGroup",
             "scenes": [],
             "dependencyType": 0,

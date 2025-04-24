@@ -1,5 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - ExtraAnimations
+    - SimpleARAnimator
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridBrushEditor
@@ -292,66 +295,72 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16796}
+      Script: {instanceID: 16802}
     - Class: 114
-      Script: {instanceID: 16798}
+      Script: {instanceID: 16804}
     - Class: 114
-      Script: {instanceID: 16800}
+      Script: {instanceID: 16806}
     - Class: 114
-      Script: {instanceID: 16852}
+      Script: {instanceID: 16858}
     - Class: 114
-      Script: {instanceID: 16994}
+      Script: {instanceID: 17000}
     - Class: 114
-      Script: {instanceID: 18140}
+      Script: {instanceID: 18146}
     - Class: 114
-      Script: {instanceID: 18504}
+      Script: {instanceID: 18432}
     - Class: 114
-      Script: {instanceID: 18562}
+      Script: {instanceID: 18512}
     - Class: 114
-      Script: {instanceID: 18872}
+      Script: {instanceID: 18570}
     - Class: 114
-      Script: {instanceID: 19070}
+      Script: {instanceID: 18880}
     - Class: 114
-      Script: {instanceID: 20148}
+      Script: {instanceID: 19078}
     - Class: 114
-      Script: {instanceID: 20150}
+      Script: {instanceID: 20156}
     - Class: 114
-      Script: {instanceID: 20152}
+      Script: {instanceID: 20158}
     - Class: 114
-      Script: {instanceID: 20198}
+      Script: {instanceID: 20160}
     - Class: 114
-      Script: {instanceID: 20200}
+      Script: {instanceID: 20206}
     - Class: 114
-      Script: {instanceID: 20242}
-    - Class: 114
-      Script: {instanceID: 20246}
+      Script: {instanceID: 20208}
     - Class: 114
       Script: {instanceID: 20250}
     - Class: 114
-      Script: {instanceID: 20252}
-    - Class: 114
       Script: {instanceID: 20254}
     - Class: 114
-      Script: {instanceID: 20256}
+      Script: {instanceID: 20258}
     - Class: 114
-      Script: {instanceID: 20282}
+      Script: {instanceID: 20260}
     - Class: 114
-      Script: {instanceID: 20284}
+      Script: {instanceID: 20262}
+    - Class: 114
+      Script: {instanceID: 20264}
     - Class: 114
       Script: {instanceID: 20290}
     - Class: 114
-      Script: {instanceID: 21242}
+      Script: {instanceID: 20292}
     - Class: 114
-      Script: {instanceID: 21306}
+      Script: {instanceID: 20298}
     - Class: 114
-      Script: {instanceID: 23260}
+      Script: {instanceID: 20380}
     - Class: 114
-      Script: {instanceID: 23796}
+      Script: {instanceID: 21252}
     - Class: 114
-      Script: {instanceID: 23834}
+      Script: {instanceID: 21316}
+    - Class: 114
+      Script: {instanceID: 23270}
+    - Class: 114
+      Script: {instanceID: 23806}
+    - Class: 114
+      Script: {instanceID: 23844}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -938,6 +947,12 @@ ScriptsOnlyBuild:
     assemblyName: Vuforia.Unity.Engine.dll
     namespaceName: Vuforia
     className: VuMarkPreview
+  - hash:
+      serializedVersion: 2
+      Hash: 9b26a342ee4151e03ff5e14db46c8c7a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ExtraAnimations
   - hash:
       serializedVersion: 2
       Hash: f172e6128a3242d56f5514cdfd3956b5
@@ -1610,6 +1625,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Services.Analytics
     namespaceName: Unity.Services.Analytics
     className: AnalyticsContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 65e60c81e00a68e412d5ecd80f7aa4e6
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SimpleARAnimator
   - hash:
       serializedVersion: 2
       Hash: e7e95903ca66d58e1a7cbd71f824e16d

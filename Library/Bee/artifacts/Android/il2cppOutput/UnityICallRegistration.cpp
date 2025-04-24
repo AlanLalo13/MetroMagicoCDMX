@@ -3212,6 +3212,14 @@ void RegisterAllStrippedInternalCalls()
 
 	//End Registrations for type : UnityEngine.Quaternion
 
+	//Start Registrations for type : UnityEngine.Random
+
+		//System.Void UnityEngine.Random::get_insideUnitSphere_Injected(UnityEngine.Vector3&)
+		void Register_UnityEngine_Random_get_insideUnitSphere_Injected();
+		Register_UnityEngine_Random_get_insideUnitSphere_Injected();
+
+	//End Registrations for type : UnityEngine.Random
+
 	//Start Registrations for type : UnityEngine.RectOffset
 
 		//System.Int32 UnityEngine.RectOffset::get_bottom()

@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
+    dir="C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:"

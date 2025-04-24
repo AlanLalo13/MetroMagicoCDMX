@@ -718,6 +718,7 @@ UnityEngine.Quaternion::Internal_ToEulerRad_Injected
 UnityEngine.Quaternion::Inverse_Injected
 UnityEngine.Quaternion::LookRotation_Injected
 UnityEngine.Quaternion::Slerp_Injected
+UnityEngine.Random::get_insideUnitSphere_Injected
 UnityEngine.RectOffset::get_bottom
 UnityEngine.RectOffset::get_horizontal
 UnityEngine.RectOffset::get_left

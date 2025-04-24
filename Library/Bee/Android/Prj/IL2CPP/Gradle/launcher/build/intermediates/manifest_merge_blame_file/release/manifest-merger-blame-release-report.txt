@@ -7,75 +7,75 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="29"
-9-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+9-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="35" />
-10-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 11
 12    <supports-screens
-12-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+12-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
 13        android:anyDensity="true"
-13-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+13-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
 14        android:largeScreens="true"
-14-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+14-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
 15        android:normalScreens="true"
-15-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+15-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
 16        android:smallScreens="true"
-16-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+16-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
 17        android:xlargeScreens="true" />
-17-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+17-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
 18
 19    <uses-permission android:name="android.permission.INTERNET" />
-19-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-67
-19-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-64
+19-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-67
+19-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-64
 20    <uses-permission android:name="android.permission.CAMERA" />
-20-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
-20-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+20-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+20-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
 21
 22    <uses-feature android:glEsVersion="0x00020000" />
-22-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-54
-22-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:19-51
+22-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-54
+22-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:19-51
 23    <uses-feature
-23-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-14:36
+23-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-14:36
 24        android:name="android.hardware.vulkan.version"
-24-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-55
+24-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-55
 25        android:required="false" />
-25-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-33
+25-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-33
 26    <uses-feature
-26-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-17:36
+26-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-17:36
 27        android:name="android.hardware.camera"
-27-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-47
+27-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-47
 28        android:required="true" />
-28-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-33
+28-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-33
 29    <uses-feature
-29-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
+29-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
 30        android:name="android.hardware.camera.autofocus"
-30-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-57
+30-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-57
 31        android:required="false" />
-31-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
+31-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
 32    <uses-feature
-32-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-23:36
+32-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-23:36
 33        android:name="android.hardware.camera.front"
-33-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-53
+33-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-53
 34        android:required="false" />
-34-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-33
+34-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-33
 35    <uses-feature
-35-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-26:36
+35-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-26:36
 36        android:name="android.hardware.touchscreen"
-36-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-52
+36-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-52
 37        android:required="false" />
-37-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-33
+37-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-33
 38    <uses-feature
-38-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-29:36
+38-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-29:36
 39        android:name="android.hardware.touchscreen.multitouch"
-39-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-63
+39-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-63
 40        android:required="false" />
-40-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33
+40-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33
 41    <uses-feature
-41-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:5-32:36
+41-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:5-32:36
 42        android:name="android.hardware.touchscreen.multitouch.distinct"
-42-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-72
+42-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-72
 43        android:required="false" />
-43-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-33
+43-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-33
 44
 45    <queries>
 45-->[com.google.ar:core:1.36.0] C:\Users\Maide\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:20:5-22:15
@@ -99,101 +99,101 @@
 55-->[:VuforiaEngine:] C:\Users\Maide\.gradle\caches\transforms-3\9619a1b0356a896efa4bb194f499da90\transformed\jetified-VuforiaEngine\AndroidManifest.xml:16:22-82
 56
 57    <application
-57-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-126
+57-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-126
 58        android:extractNativeLibs="true"
-58-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:18-50
+58-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:18-50
 59        android:icon="@mipmap/app_icon"
-59-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+59-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
 60        android:label="@string/app_name"
-60-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+60-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
 61        android:roundIcon="@mipmap/app_icon_round" >
-61-->C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:81-123
+61-->C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:81-123
 62        <meta-data
-62-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:9-37:33
+62-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:9-37:33
 63            android:name="unity.splash-mode"
-63-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-45
+63-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-45
 64            android:value="0" />
-64-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-30
+64-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-30
 65        <meta-data
-65-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-40:36
+65-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-40:36
 66            android:name="unity.splash-enable"
-66-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
+66-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
 67            android:value="True" />
-67-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-33
+67-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-33
 68        <meta-data
-68-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:9-43:36
+68-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:9-43:36
 69            android:name="unity.launch-fullscreen"
-69-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-51
+69-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-51
 70            android:value="True" />
-70-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-33
+70-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-33
 71        <meta-data
-71-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:9-46:36
+71-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:9-46:36
 72            android:name="unity.render-outside-safearea"
-72-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-57
+72-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-57
 73            android:value="True" />
-73-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-33
+73-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-33
 74        <meta-data
-74-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-49:50
+74-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-49:50
 75            android:name="notch.config"
-75-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-40
+75-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-40
 76            android:value="portrait|landscape" />
-76-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-47
+76-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-47
 77        <meta-data
-77-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-52:36
+77-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-52:36
 78            android:name="unity.auto-report-fully-drawn"
-78-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-57
+78-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-57
 79            android:value="true" />
-79-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-33
+79-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-33
 80
 81        <activity
-81-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-75:20
+81-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-75:20
 82            android:name="com.unity3d.player.UnityPlayerActivity"
-82-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-66
+82-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-66
 83            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-83-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-194
+83-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-194
 84            android:exported="true"
-84-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-36
+84-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-36
 85            android:hardwareAccelerated="false"
-85-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-48
+85-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-48
 86            android:launchMode="singleTask"
-86-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-44
+86-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-44
 87            android:resizeableActivity="false"
-87-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-47
+87-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-47
 88            android:screenOrientation="portrait"
-88-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-49
+88-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-49
 89            android:theme="@style/UnityThemeSelector" >
-89-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-54
+89-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-54
 90            <intent-filter>
-90-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-67:29
+90-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-67:29
 91                <category android:name="android.intent.category.LAUNCHER" />
-91-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-77
-91-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:27-74
+91-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-77
+91-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:27-74
 92
 93                <action android:name="android.intent.action.MAIN" />
-93-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-69
-93-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:25-66
+93-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-69
+93-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:25-66
 94            </intent-filter>
 95
 96            <meta-data
-96-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-71:40
+96-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-71:40
 97                android:name="unityplayer.UnityActivity"
-97-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-57
+97-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-57
 98                android:value="true" />
-98-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-37
+98-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-37
 99            <meta-data
-99-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:13-74:40
+99-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:13-74:40
 100                android:name="notch_support"
-100-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-45
+100-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-45
 101                android:value="true" />
-101-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:17-37
+101-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:17-37
 102        </activity>
 103
 104        <meta-data
-104-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:9-79:40
+104-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:9-79:40
 105            android:name="com.google.ar.core"
-105-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-46
+105-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-46
 106            android:value="optional" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
-106-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:79:13-37
+106-->[:unityLibrary] C:\Users\Maide\OneDrive\Documentos\Unity\RepositorioMMCDMX\MetroMagicoCDMX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:79:13-37
 107        <meta-data
 107-->[com.google.ar:core:1.36.0] C:\Users\Maide\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\AndroidManifest.xml:27:9-29:41
 108            android:name="com.google.ar.core.min_apk_version"
