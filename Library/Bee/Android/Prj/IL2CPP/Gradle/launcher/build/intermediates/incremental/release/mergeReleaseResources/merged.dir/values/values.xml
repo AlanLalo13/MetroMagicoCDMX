@@ -12,7 +12,7 @@
     <string name="__arcore_install_app">This application requires the latest version of Google Play Services for AR.</string>
     <string name="__arcore_install_feature">This feature requires the latest version of Google Play Services for AR.</string>
     <string name="__arcore_installing">Installing Google Play Services for AR…</string>
-    <string name="app_name">MetroMagicoCDMX</string>
+    <string name="app_name">Metro Mágico CDMX</string>
     <string name="game_view_content_description">Game view</string>
     <string name="vuforia_share_chooser_title">Share Vuforia Recording</string>
     <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">

@@ -6,6 +6,74 @@
                 {
                     "source": "C:\\Users\\Maide\\OneDrive\\Documentos\\Unity\\RepositorioMMCDMX\\MetroMagicoCDMX\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,1073,1173,1311",
+                        "endLines": "2,3,4,5,6,7,8,18,21,25",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,1168,1306,1533"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Maide\\.gradle\\caches\\transforms-3\\d5e017fbc646108d278d9d065862a3b2\\transformed\\jetified-core-1.36.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "424,475,530,656,782",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "470,525,651,777,865"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Maide\\.gradle\\caches\\transforms-3\\9619a1b0356a896efa4bb194f499da90\\transformed\\jetified-VuforiaEngine\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "993",
+                        "endColumns": "79",
+                        "endOffsets": "1068"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Maide\\OneDrive\\Documentos\\Unity\\RepositorioMMCDMX\\MetroMagicoCDMX\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "52,-1",
+                        "endOffsets": "105,-1"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "870,925",
+                        "endColumns": "54,67",
+                        "endOffsets": "920,988"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Maide\\.gradle\\daemon\\7.5.1\\com.vuforia.engine.VuforiaEngine.launcher-mergeReleaseResources-5:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Maide\\OneDrive\\Documentos\\Unity\\RepositorioMMCDMX\\MetroMagicoCDMX\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
                         "startLines": "2,3,4,5,6,7,8,9,11,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "55,123,169,226,282,331,377,424,524,662",

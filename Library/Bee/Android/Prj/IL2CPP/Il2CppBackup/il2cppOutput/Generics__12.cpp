@@ -264,6 +264,10 @@ struct ConcurrentDictionary_2_tF598E45B2A3ECB23FD311D829FB0AB32B1201ACF;
 struct ConcurrentDictionary_2_t6DF554984593E2F9932FAFBF9E1AFD30D1ED0812;
 struct ConditionalWeakTable_2_t87BE12792DC61EC9AE17609EC1ACA0671B3F5605;
 struct ConditionalWeakTable_2_t381B9D0186C0FCC3F83C0696C28C5001468A7858;
+struct CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED;
+struct CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C;
+struct CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44;
+struct CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879;
 struct CreateStructDelegate_1_t240D566F743F448A1A6AA369E7E016B4EEA0C03D;
 struct CreateStructDelegate_1_t3EDAA16AD9DD5B771784752145396A9B804BDBD7;
 struct CreateStructDelegate_1_t740074CFC233D096F98BA627F6C40488DFCC4FD2;
@@ -1132,6 +1136,27 @@ struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915
 		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
 	};
 };
+struct VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F 
+{
+	String_t* ___uniqueId;
+	String_t* ___name;
+	String_t* ___metadata;
+	uint8_t ___trackingRating;
+};
+struct VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F_marshaled_pinvoke
+{
+	char* ___uniqueId;
+	char* ___name;
+	char* ___metadata;
+	uint8_t ___trackingRating;
+};
+struct VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F_marshaled_com
+{
+	Il2CppChar* ___uniqueId;
+	Il2CppChar* ___name;
+	Il2CppChar* ___metadata;
+	uint8_t ___trackingRating;
+};
 struct VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 
 {
 	float ___m0;
@@ -1173,6 +1198,13 @@ struct VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5
 	float ___x;
 	float ___y;
 	float ___z;
+};
+struct VuVector4F_tD36A0D6B5C1492D847703BD2D57FD4B2FDA14245 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+	float ___w;
 };
 struct VuVuMarkObservationInfo_t1368EB7F12FB0CE19B3631E43975A8B9DFEC0B34 
 {
@@ -1535,6 +1567,27 @@ struct VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738
 	VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5 ___center;
 	VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5 ___extent;
 };
+struct VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 
+{
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientIntensity;
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientColorTemperature;
+	float ___intensityCorrection;
+	VuVector4F_tD36A0D6B5C1492D847703BD2D57FD4B2FDA14245 ___colorCorrection;
+};
+struct VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588_marshaled_pinvoke
+{
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientIntensity;
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientColorTemperature;
+	float ___intensityCorrection;
+	VuVector4F_tD36A0D6B5C1492D847703BD2D57FD4B2FDA14245 ___colorCorrection;
+};
+struct VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588_marshaled_com
+{
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientIntensity;
+	Nullable_1_tCF32C56A2641879C053C86F273C0C6EC1B40BC28 ___ambientColorTemperature;
+	float ___intensityCorrection;
+	VuVector4F_tD36A0D6B5C1492D847703BD2D57FD4B2FDA14245 ___colorCorrection;
+};
 struct VuMarkInstanceIdType_tE6CBF24739168BB997651D3FEAD5D42B5A40E02B 
 {
 	int32_t ___value__;
@@ -1803,6 +1856,63 @@ struct Type_t  : public MemberInfo_t
 {
 	RuntimeTypeHandle_t332A452B8B6179E4469B69525D0FE82A88030F7B ____impl;
 };
+struct VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 
+{
+	String_t* ___uniqueId;
+	String_t* ___name;
+	VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5 ___size;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	bool ___requiresExternalPositions;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
+struct VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8_marshaled_pinvoke
+{
+	char* ___uniqueId;
+	char* ___name;
+	VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5 ___size;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	int32_t ___requiresExternalPositions;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
+struct VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8_marshaled_com
+{
+	Il2CppChar* ___uniqueId;
+	Il2CppChar* ___name;
+	VuVector3F_t0D8184FEC600D512E82695E2BE073109B24E62D5 ___size;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	int32_t ___requiresExternalPositions;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
+struct VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 
+{
+	String_t* ___uniqueId;
+	String_t* ___name;
+	float ___sideLength;
+	float ___topDiameter;
+	float ___bottomDiameter;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
+struct VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196_marshaled_pinvoke
+{
+	char* ___uniqueId;
+	char* ___name;
+	float ___sideLength;
+	float ___topDiameter;
+	float ___bottomDiameter;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
+struct VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196_marshaled_com
+{
+	Il2CppChar* ___uniqueId;
+	Il2CppChar* ___name;
+	float ___sideLength;
+	float ___topDiameter;
+	float ___bottomDiameter;
+	VuAABB_tBF8ABA143EBB3E1715EDE17B7EC021FA7122F738 ___bbox;
+	VuMatrix44F_tC75A0AF8524BED265F800A953806F30FA28B8DE6 ___poseOffset;
+};
 struct VuImageTargetObservationTargetInfo_t080329AC4C25613825B482DEEE364CD37930FCDC 
 {
 	String_t* ___uniqueId;
@@ -1998,6 +2108,18 @@ struct FileStatus_tCB96EDE0D0F945F685B9BBED6DBF0731207458C2
 	int64_t ___Dev;
 	int64_t ___Ino;
 	uint32_t ___UserFlags;
+};
+struct CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED  : public MulticastDelegate_t
+{
+};
+struct CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C  : public MulticastDelegate_t
+{
+};
+struct CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44  : public MulticastDelegate_t
+{
+};
+struct CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879  : public MulticastDelegate_t
+{
 };
 struct CreateStructDelegate_1_t240D566F743F448A1A6AA369E7E016B4EEA0C03D  : public MulticastDelegate_t
 {
@@ -4143,6 +4265,266 @@ inline EqualityComparer_1_tAAD1A76C30594C4D736E586B3D77281A53A27399* EqualityCom
 {
 	return ((  EqualityComparer_1_tAAD1A76C30594C4D736E586B3D77281A53A27399* (*) (const RuntimeMethod*))EqualityComparer_1_CreateComparer_mD3D60BAB4A1E7DF8FDC8779F5A1A3104CAD5202A_gshared)(method);
 }
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_Multicast(CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	il2cpp_array_size_t length = __this->___delegates->max_length;
+	Delegate_t** delegatesToInvoke = reinterpret_cast<Delegate_t**>(__this->___delegates->GetAddressAtUnchecked(0));
+	VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 retVal;
+	memset((&retVal), 0, sizeof(retVal));
+	for (il2cpp_array_size_t i = 0; i < length; i++)
+	{
+		CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* currentDelegate = reinterpret_cast<CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED*>(delegatesToInvoke[i]);
+		typedef VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+		retVal = ((FunctionPointerType)currentDelegate->___invoke_impl)((Il2CppObject*)currentDelegate->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(currentDelegate->___method));
+	}
+	return retVal;
+}
+VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_OpenInst(CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_OpenStatic(CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateStructDelegate_1__ctor_m69BA1A020E13ED5CE99245A53A4A92AB7DC533F8_gshared (CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) 
+{
+	__this->___method_ptr = (intptr_t)il2cpp_codegen_get_method_pointer((RuntimeMethod*)___1_method);
+	__this->___method = ___1_method;
+	__this->___m_target = ___0_object;
+	Il2CppCodeGenWriteBarrier((void**)(&__this->___m_target), (void*)___0_object);
+	int parameterCount = il2cpp_codegen_method_parameter_count((RuntimeMethod*)___1_method);
+	__this->___method_code = (intptr_t)__this;
+	if (MethodIsStatic((RuntimeMethod*)___1_method))
+	{
+		bool isOpen = parameterCount == 1;
+		if (isOpen)
+			__this->___invoke_impl = (intptr_t)&CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_OpenStatic;
+		else
+			{
+				__this->___invoke_impl = __this->___method_ptr;
+				__this->___method_code = (intptr_t)__this->___m_target;
+			}
+	}
+	else
+	{
+		if (___0_object == NULL)
+			il2cpp_codegen_raise_exception(il2cpp_codegen_get_argument_exception(NULL, "Delegate to an instance method cannot have null 'this'."), NULL);
+		__this->___invoke_impl = __this->___method_ptr;
+		__this->___method_code = (intptr_t)__this->___m_target;
+	}
+	__this->___extra_arg = (intptr_t)&CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_Multicast;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 CreateStructDelegate_1_Invoke_mF44C946BD28E6DA15378CC38CBEA32E7DF5D1118_gshared (CreateStructDelegate_1_tAA3D3BB1131C306B4A25758848325061CE76FBED* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method) 
+{
+	typedef VuAreaTargetObservationTargetInfo_tCE7D509D755C8A57C2A3E29ED92CB34A22DA64A8 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(__this->___method));
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_Multicast(CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	il2cpp_array_size_t length = __this->___delegates->max_length;
+	Delegate_t** delegatesToInvoke = reinterpret_cast<Delegate_t**>(__this->___delegates->GetAddressAtUnchecked(0));
+	VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F retVal;
+	memset((&retVal), 0, sizeof(retVal));
+	for (il2cpp_array_size_t i = 0; i < length; i++)
+	{
+		CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* currentDelegate = reinterpret_cast<CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C*>(delegatesToInvoke[i]);
+		typedef VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+		retVal = ((FunctionPointerType)currentDelegate->___invoke_impl)((Il2CppObject*)currentDelegate->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(currentDelegate->___method));
+	}
+	return retVal;
+}
+VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_OpenInst(CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_OpenStatic(CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateStructDelegate_1__ctor_m7698F26364033D28429B3C4928088DCB40BA4526_gshared (CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) 
+{
+	__this->___method_ptr = (intptr_t)il2cpp_codegen_get_method_pointer((RuntimeMethod*)___1_method);
+	__this->___method = ___1_method;
+	__this->___m_target = ___0_object;
+	Il2CppCodeGenWriteBarrier((void**)(&__this->___m_target), (void*)___0_object);
+	int parameterCount = il2cpp_codegen_method_parameter_count((RuntimeMethod*)___1_method);
+	__this->___method_code = (intptr_t)__this;
+	if (MethodIsStatic((RuntimeMethod*)___1_method))
+	{
+		bool isOpen = parameterCount == 1;
+		if (isOpen)
+			__this->___invoke_impl = (intptr_t)&CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_OpenStatic;
+		else
+			{
+				__this->___invoke_impl = __this->___method_ptr;
+				__this->___method_code = (intptr_t)__this->___m_target;
+			}
+	}
+	else
+	{
+		if (___0_object == NULL)
+			il2cpp_codegen_raise_exception(il2cpp_codegen_get_argument_exception(NULL, "Delegate to an instance method cannot have null 'this'."), NULL);
+		__this->___invoke_impl = __this->___method_ptr;
+		__this->___method_code = (intptr_t)__this->___m_target;
+	}
+	__this->___extra_arg = (intptr_t)&CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_Multicast;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F CreateStructDelegate_1_Invoke_m5EE5DDA5C604AB5AC29B8AFAD878C89D69473BF2_gshared (CreateStructDelegate_1_tB451F16FCBD015F1DF8442EF8A6E3A514875BA6C* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method) 
+{
+	typedef VuCloudImageTargetObservationTargetInfo_tA5722359C01D4BA60FB0E90466A3A00759F8552F (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(__this->___method));
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_Multicast(CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	il2cpp_array_size_t length = __this->___delegates->max_length;
+	Delegate_t** delegatesToInvoke = reinterpret_cast<Delegate_t**>(__this->___delegates->GetAddressAtUnchecked(0));
+	VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 retVal;
+	memset((&retVal), 0, sizeof(retVal));
+	for (il2cpp_array_size_t i = 0; i < length; i++)
+	{
+		CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* currentDelegate = reinterpret_cast<CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44*>(delegatesToInvoke[i]);
+		typedef VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+		retVal = ((FunctionPointerType)currentDelegate->___invoke_impl)((Il2CppObject*)currentDelegate->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(currentDelegate->___method));
+	}
+	return retVal;
+}
+VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_OpenInst(CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_OpenStatic(CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateStructDelegate_1__ctor_m54350D2470CEFADE697171E6AD42C7EE44343E7D_gshared (CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) 
+{
+	__this->___method_ptr = (intptr_t)il2cpp_codegen_get_method_pointer((RuntimeMethod*)___1_method);
+	__this->___method = ___1_method;
+	__this->___m_target = ___0_object;
+	Il2CppCodeGenWriteBarrier((void**)(&__this->___m_target), (void*)___0_object);
+	int parameterCount = il2cpp_codegen_method_parameter_count((RuntimeMethod*)___1_method);
+	__this->___method_code = (intptr_t)__this;
+	if (MethodIsStatic((RuntimeMethod*)___1_method))
+	{
+		bool isOpen = parameterCount == 1;
+		if (isOpen)
+			__this->___invoke_impl = (intptr_t)&CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_OpenStatic;
+		else
+			{
+				__this->___invoke_impl = __this->___method_ptr;
+				__this->___method_code = (intptr_t)__this->___m_target;
+			}
+	}
+	else
+	{
+		if (___0_object == NULL)
+			il2cpp_codegen_raise_exception(il2cpp_codegen_get_argument_exception(NULL, "Delegate to an instance method cannot have null 'this'."), NULL);
+		__this->___invoke_impl = __this->___method_ptr;
+		__this->___method_code = (intptr_t)__this->___m_target;
+	}
+	__this->___extra_arg = (intptr_t)&CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_Multicast;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 CreateStructDelegate_1_Invoke_m606EFF0255966B1643BFE4A5E557EB218DCB74A9_gshared (CreateStructDelegate_1_tFBC8CE520AE865303AD475D8F0438F91A50C1B44* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method) 
+{
+	typedef VuCylinderTargetObservationTargetInfo_t09B88E331A4D64498520D1F0DACE3824CE155196 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(__this->___method));
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_Multicast(CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	il2cpp_array_size_t length = __this->___delegates->max_length;
+	Delegate_t** delegatesToInvoke = reinterpret_cast<Delegate_t**>(__this->___delegates->GetAddressAtUnchecked(0));
+	VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 retVal;
+	memset((&retVal), 0, sizeof(retVal));
+	for (il2cpp_array_size_t i = 0; i < length; i++)
+	{
+		CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* currentDelegate = reinterpret_cast<CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879*>(delegatesToInvoke[i]);
+		typedef VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+		retVal = ((FunctionPointerType)currentDelegate->___invoke_impl)((Il2CppObject*)currentDelegate->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(currentDelegate->___method));
+	}
+	return retVal;
+}
+VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_OpenInst(CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_OpenStatic(CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method)
+{
+	typedef VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___method_ptr)(___0_nativeHandle, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateStructDelegate_1__ctor_m9B2594178992EC222DD64497E2C4B268FF2F14AC_gshared (CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) 
+{
+	__this->___method_ptr = (intptr_t)il2cpp_codegen_get_method_pointer((RuntimeMethod*)___1_method);
+	__this->___method = ___1_method;
+	__this->___m_target = ___0_object;
+	Il2CppCodeGenWriteBarrier((void**)(&__this->___m_target), (void*)___0_object);
+	int parameterCount = il2cpp_codegen_method_parameter_count((RuntimeMethod*)___1_method);
+	__this->___method_code = (intptr_t)__this;
+	if (MethodIsStatic((RuntimeMethod*)___1_method))
+	{
+		bool isOpen = parameterCount == 1;
+		if (isOpen)
+			__this->___invoke_impl = (intptr_t)&CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_OpenStatic;
+		else
+			{
+				__this->___invoke_impl = __this->___method_ptr;
+				__this->___method_code = (intptr_t)__this->___m_target;
+			}
+	}
+	else
+	{
+		if (___0_object == NULL)
+			il2cpp_codegen_raise_exception(il2cpp_codegen_get_argument_exception(NULL, "Delegate to an instance method cannot have null 'this'."), NULL);
+		__this->___invoke_impl = __this->___method_ptr;
+		__this->___method_code = (intptr_t)__this->___m_target;
+	}
+	__this->___extra_arg = (intptr_t)&CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_Multicast;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 CreateStructDelegate_1_Invoke_mB57757B3E9E83B4B3D0F5A36D7CD02EA922993D3_gshared (CreateStructDelegate_1_tF45AB3692FE6F8A4415AC89848A892F3A031A879* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method) 
+{
+	typedef VuIlluminationObservationInfo_tACC60DB06AFE0921FA86B03BA92B631955318588 (*FunctionPointerType) (RuntimeObject*, intptr_t, const RuntimeMethod*);
+	return ((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_nativeHandle, reinterpret_cast<RuntimeMethod*>(__this->___method));
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"

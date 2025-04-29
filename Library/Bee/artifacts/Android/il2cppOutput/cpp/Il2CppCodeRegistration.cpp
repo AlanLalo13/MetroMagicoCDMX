@@ -65,13 +65,14 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_Services_Core_Registration_Cod
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_Services_Core_Scheduler_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_Services_Core_Telemetry_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_Services_Core_Threading_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_TextMeshPro_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_VuforiaScripts_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Vuforia_Unity_Engine_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Vuforia_Unity_Wrapper_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g___Generated_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_mscorlib_CodeGenModule;
 IL2CPP_EXTERN_C const Il2CppCodeGenModule* g_CodeGenModules[];
-const Il2CppCodeGenModule* g_CodeGenModules[50] = 
+const Il2CppCodeGenModule* g_CodeGenModules[51] = 
 {
 	(&g_AssemblyU2DCSharp_CodeGenModule),
 	(&g_Mono_Security_CodeGenModule),
@@ -118,6 +119,7 @@ const Il2CppCodeGenModule* g_CodeGenModules[50] =
 	(&g_Unity_Services_Core_Scheduler_CodeGenModule),
 	(&g_Unity_Services_Core_Telemetry_CodeGenModule),
 	(&g_Unity_Services_Core_Threading_CodeGenModule),
+	(&g_Unity_TextMeshPro_CodeGenModule),
 	(&g_VuforiaScripts_CodeGenModule),
 	(&g_Vuforia_Unity_Engine_CodeGenModule),
 	(&g_Vuforia_Unity_Wrapper_CodeGenModule),
@@ -129,20 +131,20 @@ const Il2CppCodeRegistration g_CodeRegistration =
 {
 	16,
 	g_ReversePInvokeWrapperPointers,
-	44987,
+	46263,
 	g_Il2CppGenericMethodPointers,
 	g_Il2CppGenericAdjustorThunks,
-	9312,
+	9580,
 	g_Il2CppInvokerPointers,
-	1986,
+	2009,
 	g_UnresolvedVirtualMethodPointers,
 	g_UnresolvedInstanceMethodPointers,
 	g_UnresolvedStaticMethodPointers,
-	531,
+	549,
 	g_Il2CppInteropData,
 	0,
 	NULL,
-	50,
+	51,
 	g_CodeGenModules,
 };
 IL2CPP_EXTERN_C_CONST Il2CppMetadataRegistration g_MetadataRegistration;
