@@ -325,6 +325,7 @@
 "Assets/Scripts/ControladorCambioEscena.cs"
 "Assets/Scripts/ExtraAnimations.cs"
 "Assets/Scripts/PlayPauseButtonController.cs"
+"Assets/Scripts/PulsatingObject.cs"
 "Assets/Scripts/SimpleARAnimator.cs"
 "Assets/Scripts/SplashScreenLoader.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

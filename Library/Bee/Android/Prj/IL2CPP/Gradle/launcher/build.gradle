@@ -24,7 +24,7 @@ android {
             abiFilters 'arm64-v8a'
         }
         versionCode 1113
-        versionName '11.1.3'
+        versionName '11.1.4'
     }
 
     aaptOptions {

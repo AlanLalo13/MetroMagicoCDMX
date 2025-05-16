@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "9PWCLNX84LV4SWWW",
         "name": "com.vuforia.engine.VuforiaEngine",
-        "processId": 7109,
+        "processId": 6707,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -138,6 +138,18 @@
             "deviceId": "9PWCLNX84LV4SWWW",
             "name": "com.vuforia.engine.VuforiaEngine",
             "processId": 7109,
+            "exited": false
+        },
+        {
+            "deviceId": "9PWCLNX84LV4SWWW",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 28021,
+            "exited": false
+        },
+        {
+            "deviceId": "9PWCLNX84LV4SWWW",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 6707,
             "exited": false
         }
     ],

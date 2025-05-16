@@ -35,6 +35,10 @@ extern void ExtraAnimations_HandleShake_m5ACCA308CF150658073F609A307309771C2B8F6
 extern void ExtraAnimations__ctor_mCB48503D36007DF30A461E0C0AB28C39007D0B38 (void);
 extern void PlayPauseButtonController_TogglePlayPause_mD748726098EC8710F90946111A372D2C498813E2 (void);
 extern void PlayPauseButtonController__ctor_mACF940656B2F8AF12C54050C3E089094AD996B93 (void);
+extern void PulsatingObject_Start_mC10DF4EF6CC25DF7DD3D05690E9E6C8440CDFCE2 (void);
+extern void PulsatingObject_Update_m6C4E9F8CBC5A72EC1A8776291B87E68CB31235A4 (void);
+extern void PulsatingObject_OnDisable_m6F27B8A21BB25A9D02587BD6431E61EB1F2CF273 (void);
+extern void PulsatingObject__ctor_m9B6209AE207C9E5DCEC91277CAFA85C20A152FFF (void);
 extern void SimpleARAnimator_Start_m3095169228C8CBE0AB66CC8788036E6BC6BDD5F6 (void);
 extern void SimpleARAnimator_Update_m8830FC7EFC50951A3A76109E56A6141BFEEB2A46 (void);
 extern void SimpleARAnimator_HandleRotation_mD16833DD9F5ACD048A6DD3F351ED66D996D5E700 (void);
@@ -314,7 +318,7 @@ extern void U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B0
 extern void U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (void);
-static Il2CppMethodPointer s_methodPointers[302] = 
+static Il2CppMethodPointer s_methodPointers[306] = 
 {
 	AudioOnMarkerDetect_PlayAudio_mD0056F369593117CD6085D7ED669516988944929,
 	AudioOnMarkerDetect_StopAudio_mC9E74FAFC81B5971024D1B6672B7EEDB990A110C,
@@ -339,6 +343,10 @@ static Il2CppMethodPointer s_methodPointers[302] =
 	ExtraAnimations__ctor_mCB48503D36007DF30A461E0C0AB28C39007D0B38,
 	PlayPauseButtonController_TogglePlayPause_mD748726098EC8710F90946111A372D2C498813E2,
 	PlayPauseButtonController__ctor_mACF940656B2F8AF12C54050C3E089094AD996B93,
+	PulsatingObject_Start_mC10DF4EF6CC25DF7DD3D05690E9E6C8440CDFCE2,
+	PulsatingObject_Update_m6C4E9F8CBC5A72EC1A8776291B87E68CB31235A4,
+	PulsatingObject_OnDisable_m6F27B8A21BB25A9D02587BD6431E61EB1F2CF273,
+	PulsatingObject__ctor_m9B6209AE207C9E5DCEC91277CAFA85C20A152FFF,
 	SimpleARAnimator_Start_m3095169228C8CBE0AB66CC8788036E6BC6BDD5F6,
 	SimpleARAnimator_Update_m8830FC7EFC50951A3A76109E56A6141BFEEB2A46,
 	SimpleARAnimator_HandleRotation_mD16833DD9F5ACD048A6DD3F351ED66D996D5E700,
@@ -619,7 +627,7 @@ static Il2CppMethodPointer s_methodPointers[302] =
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42,
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19,
 };
-static const int32_t s_InvokerIndices[302] = 
+static const int32_t s_InvokerIndices[306] = 
 {
 	6497,
 	6497,
@@ -634,6 +642,10 @@ static const int32_t s_InvokerIndices[302] =
 	6372,
 	6497,
 	6372,
+	6497,
+	6497,
+	6497,
+	6497,
 	6497,
 	6497,
 	6497,
@@ -928,7 +940,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	302,
+	306,
 	s_methodPointers,
 	0,
 	NULL,
